@@ -9,3 +9,7 @@ This is a simple calculator application built with React and Vite.
 - Tailwind CSS
 
 The calculation logic is put in [a single module](./src/Reducer.ts) which exposes only a single `reduce` function (and types), which is called from `useReducer` hook of React. It is a pure function, so it is easy to [test](./test/reducer.test.ts).
+
+## Preview
+
+https://akirak.github.io/react-calc/
