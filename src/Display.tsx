@@ -1,5 +1,3 @@
-import { useMemo } from "react"
-
 type DisplayProps = {
   value: string
 }

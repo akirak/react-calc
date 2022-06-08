@@ -1,4 +1,4 @@
-import { useMemo, useReducer } from "react"
+import { useReducer } from "react"
 import Display from "./Display"
 import Keyboard from "./Keyboard"
 import reducer, { CalcState } from "./Reducer"
